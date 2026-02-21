@@ -46,7 +46,7 @@ We do not send marketing messages, promotions, or advertisements.
 
 ## Privacy
 
-Your phone number and message content are used solely for property management communication between you and your property manager. We do not sell, share, or distribute your phone number or personal information to third parties for marketing purposes. For full details, see our privacy policy.
+Your phone number and message content are used solely for property management communication between you and your property manager. We do not sell, share, or distribute your phone number or personal information to third parties for marketing purposes. For full details, see our privacy policy.https://github.com/cdenmark97/Terms-Conditions/blob/main/PRIVACY_POLICY.md
 
 ## Supported Carriers
 
