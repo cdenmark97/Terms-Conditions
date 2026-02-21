@@ -70,4 +70,4 @@ We may update this privacy policy from time to time. Changes will be reflected b
 
 If you have questions about this privacy policy or your personal data:
 
-- **Email:** c_denmark@outlook.com
+- **Email:** support@rentalrelay.com
